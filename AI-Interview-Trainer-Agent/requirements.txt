@@ -1,0 +1,4 @@
+langflow
+streamlit
+requests
+ibm-watsonx-ai

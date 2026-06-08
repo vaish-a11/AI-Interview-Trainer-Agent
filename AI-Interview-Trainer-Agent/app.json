@@ -1,0 +1,9 @@
+{
+  "name": "AI Interview Trainer Agent",
+  "version": "1.0",
+  "technology": [
+    "LangFlow",
+    "IBM Granite",
+    "IBM Watsonx"
+  ]
+}
